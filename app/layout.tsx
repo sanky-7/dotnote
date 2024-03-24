@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   description: "A modern note-taking app built with Next.js and Convex.",
   openGraph: {
     title: 'DotNote',
-    description: 'The React Framework for the Web',
+    description: 'A modern note-taking app built with Next.js and Convex.',
     url: 'https://dotnote-five.vercel.app/',
     siteName: 'DotNote',
     images: [
