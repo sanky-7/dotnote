@@ -1,4 +1,3 @@
-"use client";
 
 import { Cover } from "@/components/cover";
 import dynamic from "next/dynamic";
